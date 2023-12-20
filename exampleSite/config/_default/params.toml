@@ -29,7 +29,7 @@ netlify = true # set to false if using formspree.io
 contact_form_action = "#"
 # copyright
 theme_copyright = true
-copyright = "Copyright by your company"
+copyright = "Copyright by KuVi"
 
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
