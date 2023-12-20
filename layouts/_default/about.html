@@ -14,15 +14,7 @@
           {{ .Content }}
         </div>
 
-        <div class="gallery-item d-none">
-          <div class="row g-4">
-            {{ range .Params.gallery_items }}
-            <div class="col-lg-3">
-              {{ partial "image.html" (dict "Src" .image "Class" "rounded-6")}}
-            </div>
-            {{ end }}
-          </div>
-        </div>
+        
       </div>
     </div>
   </div>
