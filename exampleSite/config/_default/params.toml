@@ -1,12 +1,12 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/favicon.png"
+favicon = "images/an-favicon.png"
 # logo
-logo = "images/logo.png"
-logo_dark = "images/logo-white.png"
+logo = "images/an1-logo.png"
+logo_dark = "images/an1-logo.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "120px"
+logo_width = "160px"
 # logo text will only show when logo is missing.
 logo_text = "iWriter"
 
